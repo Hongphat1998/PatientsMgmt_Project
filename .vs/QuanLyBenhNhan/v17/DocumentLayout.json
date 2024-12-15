@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HTP\\Downloads\\New folder\\Do_An_Tin_Hoc-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7DBEF9F4-1C8D-41C0-9443-953721EAAB3B}|QuanLyBenhNhan\\QuanLyBenhNhan.vcxproj|C:\\Users\\HTP\\Downloads\\New folder\\Do_An_Tin_Hoc-master\\QuanLyBenhNhan\\CaiDat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7DBEF9F4-1C8D-41C0-9443-953721EAAB3B}|QuanLyBenhNhan\\QuanLyBenhNhan.vcxproj|solutionrelative:QuanLyBenhNhan\\CaiDat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CaiDat.cpp",
+              "DocumentMoniker": "C:\\Users\\HTP\\Downloads\\New folder\\Do_An_Tin_Hoc-master\\QuanLyBenhNhan\\CaiDat.cpp",
+              "RelativeDocumentMoniker": "QuanLyBenhNhan\\CaiDat.cpp",
+              "ToolTip": "C:\\Users\\HTP\\Downloads\\New folder\\Do_An_Tin_Hoc-master\\QuanLyBenhNhan\\CaiDat.cpp",
+              "RelativeToolTip": "QuanLyBenhNhan\\CaiDat.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-15T16:32:08.219Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
